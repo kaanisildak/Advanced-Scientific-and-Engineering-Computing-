@@ -45,17 +45,17 @@ v3=[-2, 4, -7, 8, 0, 9];
 A=[v1',v2',v3'];
 
 % b)
-% v1 vektörünün birim vektörü
+% unit vector of v1
 a= (v1).*(v1);
 norm_v1=(sum(a))^(1/2);
 v1_unit=(v1)/norm_v1;
 
-% v2 vektörünün birim vektörü
+% unit vector of v2
 b= (v2).*(v2);
 norm_v2=(sum(b))^(1/2);
 v2_unit=(v2)/norm_v2;
 
-% v3 vektörünün birim vektörü
+% unit vector of v3
 c= (v3).*(v3);
 norm_v3=(sum(c))^(1/2);
 v3_unit=(v3)/norm_v3;
