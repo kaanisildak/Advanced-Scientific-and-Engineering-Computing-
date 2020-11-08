@@ -1,5 +1,5 @@
 % Kaan Işıldak / no: 090160360
-% If you run this code, it will print all of the answers hocam.
+
 
 % Question1 a)
 p=(((2)^(1/2))+2)^(1/2) ;
